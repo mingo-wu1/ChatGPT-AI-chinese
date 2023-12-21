@@ -1,4 +1,4 @@
-最好的ChatGPT-AI社区, 分享信息涵盖ChatGPT, GPT, DELLE,DELLE2,Stable Diffusion, AI等前沿内容, 一起共创共赢 
+最好的ChatGPT-AI社区, 免费分享信息涵盖ChatGPT, GPT, DELLE,DELLE2,Stable Diffusion, AI等前沿内容, 一起共创共赢 
 
 <p align="center">
   <img width="180" src="https://github.com/mingo-wu1/mingo-wu1/blob/main/images/427853386.jpg">
@@ -9,7 +9,7 @@
 [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README-ZH_CN.md)
 
 ---
-
+如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mingo-wu1/chatgpt-ai-chinese&type=Timeline)](https://star-history.com/#mingo-wu1/chatgpt-ai-chinese&Timeline)
