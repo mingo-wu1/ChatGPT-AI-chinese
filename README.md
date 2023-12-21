@@ -1,4 +1,4 @@
-<div align='center'><font size='70'> The best ChatGPT-AI community</font></div>
+<div align='center'>The best ChatGPT-AI community</div>
 #### offering free information sharing on cutting-edge topics such as ChatGPT, GPT-4, Gemini, DELLE, DELLE2, Stable Diffusion, AI, etc. 
 #### Let's create and win together
 #### 最好的ChatGPT-AI社区, 免费分享信息涵盖ChatGPT,GPT4,Gemini,DELLE,DELLE2,Stable Diffusion,AI等前沿内容, 一起共创共赢 
