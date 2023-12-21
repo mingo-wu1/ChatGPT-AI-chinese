@@ -11,6 +11,9 @@
 ---
 
 ---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mingo-wu1/chatgpt-ai-chinese&type=Timeline)](https://star-history.com/#mingo-wu1/chatgpt-ai-chinese&Timeline)
+
 ## 中国用户
 
 国内用户如果遇到使用问题或者想交流 ChatGPT 技巧，可以关注公众号“吴小硕同学”，发送 “chat” 进群参与讨论。如果需要进交流群可以关注公众号后回复 “chat” 进技术开发群（想私聊的也可以关注公众号，来添加微信）。
