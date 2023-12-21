@@ -12,15 +12,16 @@
 [![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README-ZH_CN.md)
 
 ---
+If you find this project useful, don't forget to star �, your support is my motivation to move forward.
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力
 <table>
     <thead>
     <tr>
-        <th>序号</th>
-        <th>网站</th>
-        <th>标签</th>
-        <th>添加时间</th>
-        <th>备注</th>
+        <th>No.(序号)</th>
+        <th>Web(网站)</th>
+        <th>Label(标签)</th>
+        <th>Time(添加时间)</th>
+        <th>Note(备注)</th>
     </tr>
     </thead>
     <tbody>
