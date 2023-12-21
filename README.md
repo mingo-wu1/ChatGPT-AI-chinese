@@ -1,7 +1,7 @@
 <div align='center'>The best ChatGPT-AI community</div>
-#### offering free information sharing on cutting-edge topics such as ChatGPT, GPT-4, Gemini, DELLE, DELLE2, Stable Diffusion, AI, etc. 
-#### Let's create and win together
-#### 最好的ChatGPT-AI社区, 免费分享信息涵盖ChatGPT,GPT4,Gemini,DELLE,DELLE2,Stable Diffusion,AI等前沿内容, 一起共创共赢 
+<div align='center'>offering free information sharing on cutting-edge topics such as ChatGPT, GPT-4, Gemini, DELLE, DELLE2, Stable Diffusion, AI, etc.</div>
+<div align='center'>Let's create and win together</div>
+<div align='center'>最好的ChatGPT-AI社区, 免费分享信息涵盖ChatGPT,GPT4,Gemini,DELLE,DELLE2,Stable Diffusion,AI等前沿内容, 一起共创共赢.</div>
 
 <p align="center">
   <img width="180" src="https://github.com/mingo-wu1/mingo-wu1/blob/main/images/427853386.jpg">
