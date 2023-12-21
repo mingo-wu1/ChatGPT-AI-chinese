@@ -1,4 +1,5 @@
-最好的ChatGPT-AI社区, 免费分享信息涵盖ChatGPT, GPT, DELLE,DELLE2,Stable Diffusion, AI等前沿内容, 一起共创共赢 
+The best ChatGPT-AI community, offering free information sharing on cutting-edge topics such as ChatGPT, GPT-4, Gemini, DELLE, DELLE2, Stable Diffusion, AI, etc. Let's create and win together
+最好的ChatGPT-AI社区, 免费分享信息涵盖ChatGPT,GPT4,Gemini,DELLE,DELLE2,Stable Diffusion,AI等前沿内容, 一起共创共赢 
 
 <p align="center">
   <img width="180" src="https://github.com/mingo-wu1/mingo-wu1/blob/main/images/427853386.jpg">
@@ -28,8 +29,19 @@
             <td>
                         🆓
             </td>
-              <td>2023-11-15</td>
-              <td>多模型，支持 GPT4 文件 
+              <td>2023-12</td>
+              <td>套壳ChatGPT,多模型，支持 GPT4 文件 
+            </td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td> <a href="https://makersuite.google.com" target="_blank">https://makersuite.google.com</a>
+                <br> </td>
+            <td>
+                        🆓
+            </td>
+              <td>2023-12</td>
+              <td>Google Gemini 
             </td>
         </tr>
     </tbody>
