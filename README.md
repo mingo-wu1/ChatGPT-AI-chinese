@@ -10,6 +10,31 @@
 
 ---
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力
+<table>
+    <thead>
+    <tr>
+        <th>序号</th>
+        <th>网站</th>
+        <th>标签</th>
+        <th>添加时间</th>
+        <th>备注</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td> <a href="https://poe.com" target="_blank">https://poe.com</a>
+                <br> </td>
+            <td>
+                        🆓
+            </td>
+              <td>2023-11-15</td>
+              <td>多模型，支持 GPT4 文件 
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!-- normal-end -->
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mingo-wu1/chatgpt-ai-chinese&type=Timeline)](https://star-history.com/#mingo-wu1/chatgpt-ai-chinese&Timeline)
